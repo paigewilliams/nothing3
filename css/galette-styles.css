@@ -1,0 +1,26 @@
+h1 {
+  font-family: "Gill Sans", sans-serif;
+    color: #D4AAA8;
+}
+h2 {
+  font-family: "Gill Sans", sans-serif;
+}
+h3 {
+  font-family: "Gill Sans", sans-serif;
+}
+
+ul {
+  font-family: "Gill Sans", sans-serif;
+}
+
+p.bio {
+  font-family: "Gill Sans", sans-serif;
+  font-style: italic;
+  width: 75%;
+}
+
+.flashy {
+  font-family: "Gill Sans", sans-serif;
+  font-style: italic;
+  color: #B17E95;
+}
